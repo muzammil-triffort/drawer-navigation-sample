@@ -10,3 +10,7 @@ npm i
 react-native link
 
 react-native run-ios
+
+![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/screenshot2.png)
+![Screenshot](screenshots/screenshot3.png)
