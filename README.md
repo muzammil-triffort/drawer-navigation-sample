@@ -10,3 +10,5 @@ npm i
 react-native link
 
 react-native run-ios
+
+![Screenshot](screenshots/screenshot.png)
